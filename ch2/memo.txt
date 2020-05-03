@@ -1,0 +1,6 @@
+incr n = 1 + n
+incr = \n -> 1 + n
+incr = (+) 1
+incr = add 1
+incr = (1 +)
+incr = (1 `add`)
